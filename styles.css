@@ -52,19 +52,19 @@ body {
 }
 
 .red {
-  background: linear-gradient(135deg, #ff4757 0%, #c44569 100%);
+  background: linear-gradient(135deg, #ff3333 0%, #cc0000 50%, #990000 100%);
 }
 
 .green {
-  background: linear-gradient(135deg, #2ed573 0%, #1e90ff 100%);
+  background: linear-gradient(135deg, #33ff33 0%, #00cc00 50%, #009900 100%);
 }
 
 .blue {
-  background: linear-gradient(135deg, #3742fa 0%, #2f3542 100%);
+  background: linear-gradient(135deg, #3333ff 0%, #0000cc 50%, #000099 100%);
 }
 
 .yellow {
-  background: linear-gradient(135deg, #ffa502 0%, #ff6348 100%);
+  background: linear-gradient(135deg, #ffff33 0%, #cccc00 50%, #999900 100%);
 }
 
 .pressed {
