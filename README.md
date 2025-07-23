@@ -1,7 +1,5 @@
 # Simon Says Game using JQuery
 
-## 🎮 Simon Game using jQuery
-
 This project is a web-based version of the classic **Simon Game**, built using **jQuery** and **JavaScript**. The goal is to replicate an increasingly complex sequence of button presses, testing the user’s memory and focus.
 
 ---
@@ -41,8 +39,6 @@ This project is a web-based version of the classic **Simon Game**, built using *
 
 ## 📸 Preview
 
-![Simon Game Preview](screenshot.png)
+https://github.com/user-attachments/assets/4b546530-7beb-4d34-901c-06335d931c35
 
 ---
-
-
