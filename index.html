@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <title>Simon</title>
+  <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <!-- Instructions Modal -->
+  <div id="instructions-modal" class="modal">
+    <div class="modal-content">
+      <span class="close-btn">&times;</span>
+      <h2>How to Play Simon Says</h2>
+      <p>🎮 Watch the sequence, then repeat it by clicking the buttons in the same order!</p>
+      <p>Each level adds one more step to remember. How far can you go?</p>
+      <button id="got-it-btn" class="got-it-button">Got it! Let's Play</button>
+    </div>
+  </div>
+
+  <h1 id="level-title">Simon Says</h1>
+  <h2 id="start-message">Press A Key to Start</h2>
+  <div class="container">
+    <div class="row">
+
+      <div type="button" id="green" class="btn green">
+
+      </div>
+
+      <div type="button" id="red" class="btn red">
+
+      </div>
+    </div>
+
+    <div class="row">
+
+      <div type="button" id="yellow" class="btn yellow">
+
+      </div>
+      <div type="button" id="blue" class="btn blue">
+
+      </div>
+
+    </div>
+
+  </div>
+<!-- jQuery from jQuery CDN -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="game.js"></script>
+</body>
+
+</html>
